@@ -23,3 +23,10 @@
 
 ## Program 8
 ![Program 8](prog8.png)
+
+
+## Program 9
+![Program 9](prog9.png)
+
+## Program 10
+![Program 10](prog10.png)
