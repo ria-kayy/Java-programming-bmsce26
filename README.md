@@ -39,3 +39,6 @@
 
 ## Program 13
 ![Program 13](prog13.png)
+
+## Program 14
+![Program 14](prog14.png)
